@@ -1,7 +1,7 @@
 ## To Paradise 第二部分
 [回到主页](https://boheme130.github.io/Fiction.git.io/)
 
-![avatar](https://cdn11.bigcommerce.com/s-r3utmtjwwz/images/stencil/608x608/products/75408/367098/winter-in-washington-square_paul-cornoyer__67315.1624922177.jpg?c=2)
+![avatar](https://images.fineartamerica.com/images-medium-large-5/washington-square-nyc-chris-weir.jpg)
 <br>
 <br>
 
