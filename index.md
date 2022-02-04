@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+## To Paradise 第二部分
+[回到主页](https://boheme130.github.io/Fiction.git.io/)
 
-You can use the [editor on GitHub](https://github.com/Boheme130/ToParadise2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![avatar](https://media.newyorker.com/photos/5a985b4c2c02a1185ef9aa91/16:9/w_4543,h_2555,c_limit/Crosley-Outside-Voices.jpg)
+<br>
+<br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+作品：To Paradise <br>
+部分：第二部分Nipo-Wao-Nahele <br>
+作者：Hanya Yanagihara <br>
 
-### Markdown
+关键词：夏威夷皇族；纽约；1990s”瘟疫”潮；父爱式爱情
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+在1893年，年轻的David作为全美第一家族的长子被给予厚望，希望和同为贵族的老男人Charles结婚。一百年后，在1993年的纽约，Charlie和David继续延续了上一世纪的感情：Charlie变成了出身富裕世家的律所高级合伙人，而David是夏威夷皇族后代，在夏威夷被美国占领后家族没落，现在贫困的他来到纽约一家律所当法律助理。
 
-```markdown
-Syntax highlighted code block
+在一个工作日，David上班路上被种族歧视攻击，惊魂未定的他回到办公室里，不小心把钢笔的墨水弄到衣服上。在卫生间里处理上衣时，David和Charles第一次见面，面对身为合伙人的Charles, David乱了方寸。但Charles主动出击，两人当晚第一次约会。
 
-# Header 1
-## Header 2
-### Header 3
+在约会期间，Charles像对待孩子一样对待David，面对第一次来高级餐厅的David，他帮David点菜，不断鼓励David分享他的故事，而当David问起Charles的故事时，Charles却用只有深谙自己阅历丰富的人才能有的口吻说他很无聊没什么好分享的。
 
-- Bulleted
-- List
+尽管在内心知道这种权力失衡的情感不对，David却十分珍惜这种父爱加母爱式的感情关系。原来，David有一个不成器的父亲，他穷尽一生试图光复夏威夷皇族，但却落魄不得志，沦为众人的笑柄，而David父亲在儿子面前表现得十分软弱。他把儿子视为自己的寄托，需要在儿子身上寻找爱和亲情来安抚自己，David无法忍受这种寄生虫式的父子关系，最终他逃离了夏威夷，抛下了祖辈的传统和皇族的血脉，来到纽约成为了一个贫困的打工人。
 
-1. Numbered
-2. List
+晚餐时Charles知道David的姓时吃了一惊，对David的态度突然变得谨慎，因为他认出了这是皇族的名字，但David却掩盖说这是传教士的姓，他的父母早就死了。Charles又恢复了之前的宠溺态度。
 
-**Bold** and _Italic_ and `Code` text
+两人慢慢开始交往，他们在办公室里掩藏私下的情感，却又通过自己的方式偷偷传达对对方的感情。他们达成暗号，每当David经过Charles的办公室，Charles就会微微示意表示他知道David在他身边，这成为了David每日工作的寄托之一。他们两人的交往让David“感觉就像是孩子”，Charles给他买衣服，让他第一次穿上了高级服装，他们所有旅行都是Charles出钱，餐厅、酒店、景点都是Charles安排。David慢慢也搬进了Charles在华盛顿广场的豪宅里，而华盛顿广场正是两人前世David家族的财产(详情见第一部分)。
 
-[Link](url) and ![Image](src)
-```
+在Charles身上，David得到了他父亲从未给予过的一切。他清楚地认识到这段关系的不对等关系，但他却享受Charles掌控生活一切的这种权威，在Charles的家中，他是被关心的对象，而不是表达关心的人。在某种疾病横行的90年代纽约，当两人第一次上床前，David问Charles有没有那个东西，Charles的承认让David知道了Charles也有不可掌控的一面，但两人都心照不宣，日后不再提及此事。
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+90年代的纽约“瘟疫”横行，许多男性都患病了。尽管作者没有直接提及这个病的名字，但相信大家都猜到了。作者没有直接提及这个名字也是为书的第三部分埋下了一个巨大的伏笔。前面提到的所有剧情都是我在David的回忆里拼凑出来的，实际上，书中的第二部分只持续了一个夜晚，那就是Charles在家中给Peter开送别晚会(在第一部分中，Peter是David弟弟的丈夫，现在他是纽约的一个大诗人)。
 
-### Jekyll Themes
+Peter也病了，他现在还患了癌症，在治疗失败后他隔天即将前往瑞士安乐死，在最后一晚，Charles为自己一生的初恋举办了送别晚餐。Peter和Charles关系非同寻常。他们青梅竹马，家境相似，从小一起上学，一起经历了人生的第一次恋爱、第一次分手，之后两人一直保持了友谊。在Charles眼中，Peter让他感到紧张，让他振奋，让他努力变得更好(当然David只会引起Charles的关爱态度)。现在Peter要死了，Charles和David在家中为Peter举办了送别晚餐。
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Boheme130/ToParadise2/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+宴会上还有Charles别的朋友，其中最显眼的就是三个单身老男人，被戏称为(勃朗特)“三姐妹”，他们也都病了，但都还暂时活着。Charles无私地帮助着他的这群朋友，为他们垫付医药费，把自己其他的房子给他们，但只有David知道Charles也是他们中的一员。在一群老白男之中，Charles已经倍感眩晕，当他看到Charles和Peter在一起告别产生的巨大磁场时，他只感到自己更加渺小，因为自己从未属于Charles的世界。他察觉到了Peter对他的怒火，那种怒火并不是针对他这个人，而是一个临死之人对健康之人的愤怒，是对David还有未来的怒火。最终Peter短暂地和David相处，他摆脱David帮自己照顾好Charles，David尽管表面坚定承诺，内心却倍感彷徨，觉得自己并未有能力照顾Charles. 
 
-### Support or Contact
+宴会结束，Peter隔天就会飞去瑞士安乐死。Charles和David回到卧室，两人在床上各自躺下了。等Charles睡着后，David下楼打开了第二部分开头他收到的信，其实他父亲没死，只是David和他断绝了关系对外谎称他死了，现在David收到了在疗养院即将死去的父亲的来信。在看信的过程中David睡着了，醒来发现Charles在他身边，原来，Peter还没去瑞士就死在了纽约。
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Charles向David分享了他还是个孩子时的故事：Charles曾经有个弟弟，他早产了两周，在科技落后的1940s年代，早产儿只能在出生两天内死去；然而Charles的母亲拿了个简易的呼吸装置，终日帮Charles弟弟进行人工呼吸，但Charles弟弟还是很快死去，Charles父亲曾经痛斥妻子的无用功。在人生的过程中，Charles一直和父亲保持着更为紧密的关系，他们从爱好到事业无话不聊，Charles曾经以为他更像父亲，但只有他老了之后他才开始思考自己是不是更像母亲，他在想谁会明知他已没有希望，却会为了他去不断摁那个呼吸装置。David想安慰Charles，告诉他自己会为了他摁呼吸装置，但他却说不出任何话。
+
+Charles告诉David自己在他睡着时读了他手上的信，知道了他父亲的情况。两人在新年的第一个早上吃着昨晚的剩菜，David开始幻想在多年后的另一个时空，他和健康活着的Charles, Peter, 三姐妹一起吃饭，而他的父亲也在那里，他带着Charles一起和家人欢乐团聚。书的第二部分第一章结束，这一章占了这一部分的约三分之一，剩下三分之二由这一部分开启，是David父亲的第一人称信件，讲述了他作为皇族后代试图复辟却失败的无能一生。
